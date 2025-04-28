@@ -16,3 +16,4 @@ Fonctionnalités prévues :
 - Prévision des dépenses (électricité, charges récurrentes, ...)
 
 L'objectif principal est de centraliser sur une seule interface.
+TEST
